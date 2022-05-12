@@ -1,4 +1,4 @@
-package com.familyIncomeAndExpensesSoftware;
+package com.projects.familyIncomeAndExpensesSoftwareWithJava;
 import java.util.Scanner;
 /**
 Utility Tools：ࣺ

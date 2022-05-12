@@ -1,4 +1,4 @@
-package com.familyIncomeAndExpensesSoftware;
+package com.projects.familyIncomeAndExpensesSoftwareWithJava;
 
 public class FamilyAccount {
     public static void main(String[] args) {
